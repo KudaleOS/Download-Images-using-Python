@@ -16,7 +16,7 @@ def downloadImage(query):
     # size is the image size which can 
     # be specified manually ("large, medium, icon") 
     # aspect ratio denotes the height width ratio 
-    # of images to download. ("tall, square, wide, panoramic") 
+    # size of images to download. ("tall, square, wide, panoramic") 
     try:
     #downloading images based on given arguments
         rspns.download(arg) 
