@@ -4,3 +4,4 @@
 2.run downloadImage.py file
 3.Some images could not be open because of the downloading error. 
 4.A separate “downloads” folder will be created with all the images.
+5.given "downloads" folder contains two images of Eiffel tower(for example)
